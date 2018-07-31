@@ -1,0 +1,23 @@
+body{
+    background:white;
+}
+.box{
+    width:auto;
+    height:100px;
+    color:transparent;
+    background-color:orange;
+    border-radius: 10px;
+}
+
+li{
+    padding-top: 40px;
+    float: left;
+    font-family: sans-serif;
+}
+a{
+padding: 10px;
+color: black
+}
+.divisions{
+    height: 100vh;
+}
